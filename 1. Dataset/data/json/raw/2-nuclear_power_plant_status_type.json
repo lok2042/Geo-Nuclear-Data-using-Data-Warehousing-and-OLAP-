@@ -1,0 +1,42 @@
+[
+  {
+    "Type": "Unknown",
+    "Id": 0
+  },
+  {
+    "Type": "Planned",
+    "Id": 1
+  },
+  {
+    "Type": "Under Construction",
+    "Id": 2
+  },
+  {
+    "Type": "Operational",
+    "Id": 3
+  },
+  {
+    "Type": "Suspended Operation",
+    "Id": 4
+  },
+  {
+    "Type": "Shutdown",
+    "Id": 5
+  },
+  {
+    "Type": "Unfinished",
+    "Id": 6
+  },
+  {
+    "Type": "Never Built",
+    "Id": 7
+  },
+  {
+    "Type": "Suspended Construction",
+    "Id": 8
+  },
+  {
+    "Type": "Cancelled Construction",
+    "Id": 9
+  }
+]
