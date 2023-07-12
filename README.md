@@ -8,7 +8,7 @@ This repository contains a data analysis project focused on Nuclear Power Plant 
 
 The repository is organized into the following folders:
 
-1. **Dataset**: Contains the dataset in JSON, CSV, and MySQL formats. For detailed information about the tables structure and data sources, please refer to the [Dataset README.md](1.Dataset/README.md).
+1. **Dataset**: Contains the dataset in JSON, CSV, and MySQL formats. For detailed information about the tables structure and data sources, please refer to the [Dataset README.md](1.%20Dataset/README.md).
 
 2. **Preprocessing**: Includes the necessary scripts and SQL codes for data preprocessing. Here are the files within this folder:
 
