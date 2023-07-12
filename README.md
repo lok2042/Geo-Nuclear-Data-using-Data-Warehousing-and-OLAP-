@@ -1,12 +1,14 @@
 # Nuclear Power Plant Geo Data Analysis
 
+[Nuclear Power Plants](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Kerncentrale_Doel_in_werking.jpg/260px-Kerncentrale_Doel_in_werking.jpg)
+
 This repository contains a data analysis project focused on Nuclear Power Plant Geo Data. The project utilizes data warehousing and OLAP techniques using Python and MySQL. The analysis is conducted on a dataset obtained from [Kaggle](https://www.kaggle.com/datasets/marchman/geo-nuclear-data), which is licensed under the Open Database License and the Database Contents License.
 
 ## Project Structure
 
 The repository is organized into the following folders:
 
-1. **Dataset**: Contains the dataset in JSON, CSV, and MySQL formats. For detailed information about the tables structure and data sources, please refer to the [Dataset README.md](Dataset/README.md).
+1. **Dataset**: Contains the dataset in JSON, CSV, and MySQL formats. For detailed information about the tables structure and data sources, please refer to the [Dataset README.md](1. Dataset/README.md).
 
 2. **Preprocessing**: Includes the necessary scripts and SQL codes for data preprocessing. Here are the files within this folder:
 
